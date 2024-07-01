@@ -1,0 +1,14 @@
+transformers
+bitsandbytes
+accelerate
+langchain
+langchainhub
+langchain-chroma
+langchain-community
+langchain-huggingface
+python-dotenv
+pypdf
+numpy
+langchain-openai
+chainlit==1.1.304
+localtunnel
